@@ -1,6 +1,6 @@
 # net-traffic-analyzer
 Network traffic analyzer using PyShark, Pandas &amp; Matplotlib
-# 🔍 NET-01: Network Traffic Analyzer
+# NET-01: Network Traffic Analyzer
 
 > Herramienta de análisis de tráfico de red usando PyShark, Pandas y Matplotlib.  
 > Parte de mi portafolio profesional [Carlos Rodríguez](https://github.com/CarlosRolo) — Ingeniero en Telemática.
@@ -12,7 +12,7 @@ Network traffic analyzer using PyShark, Pandas &amp; Matplotlib
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 Analiza archivos `.pcap` capturados con Wireshark y genera reportes visuales automáticos:
 
@@ -20,7 +20,7 @@ Analiza archivos `.pcap` capturados con Wireshark y genera reportes visuales aut
 - 📈 Volumen de tráfico en el tiempo (bytes/segundo)
 - 🌐 Top IPs origen por volumen de tráfico
 
-## 🗂️ Estructura del Proyecto
+##Estructura del Proyecto
 
 net-traffic-analyzer/
 ├── src/
@@ -32,7 +32,7 @@ net-traffic-analyzer/
 ├── tests/               # Unit tests
 └── requirements.txt
 
-## ⚙️ Instalación
+##Instalación
 
 ```bash
 # Clonar el repositorio
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 sudo apt-get install -y tshark
 ```
 
-## 🚀 Uso
+## Uso
 
 ```bash
 # Analizar un archivo .pcap
@@ -70,13 +70,13 @@ python3 src/capture.py data/samples/sample_http.pcap --no-save
 [+] IPs únicas        : 10
 [✓] Análisis completado.
 
-## 📊 Gráficas Generadas
+## Gráficas Generadas
 
 | Protocolo | IPs Origen | Tráfico en el Tiempo |
 |:---------:|:----------:|:--------------------:|
 | ![](reports/figures/protocol_distribution.png) | ![](reports/figures/top_ips.png) | ![](reports/figures/traffic_over_time.png) |
 
-## 🛠️ Stack Tecnológico
+## tack Tecnológico
 
 | Herramienta | Uso |
 |---|---|
@@ -86,14 +86,13 @@ python3 src/capture.py data/samples/sample_http.pcap --no-save
 | Scapy | Generación de tráfico de prueba |
 | TShark | Backend de captura (Wireshark CLI) |
 
-## 👨‍💻 Autor
+##Autor
 
 **Carlos David Rodríguez López**  
 Ingeniero en Telemática — ESPOCH, Ecuador  
-🏆 1er Lugar IoT Challenge Nacional V3.0 — PneumoLink  
 🔗 [github.com/CarlosRolo](https://github.com/CarlosRolo)
 
-## 📄 Licencia
+## Licencia
 
 MIT License — ver [LICENSE](LICENSE)
 
