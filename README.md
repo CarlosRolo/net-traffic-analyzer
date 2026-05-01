@@ -1,7 +1,7 @@
 # NET-01: Network Traffic Analyzer
  
 > Network traffic analysis tool using PyShark, Pandas and Matplotlib.
-> Part of the professional portfolio of [Carlos Rodriguez](https://github.com/CarlosRolo) — Telematic Engineer.
+> Part of my professional portfolio [Carlos Rodriguez](https://github.com/CarlosRolo) — Telematic Engineer.
  
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![PyShark](https://img.shields.io/badge/PyShark-0.6-green)
@@ -82,7 +82,9 @@ python3 src/capture.py data/samples/sample_http.pcap
 ## Author
  
 **Carlos David Rodriguez Lopez**  
-Telematic Engineer — ESPOCH, Ecuador  
+Telematic Engineer — ESPOCH
+Manta, Manabí, Ecuador  
+Riobamba, Chimborazo, Ecuador
 [github.com/CarlosRolo](https://github.com/CarlosRolo)
  
 ## License
