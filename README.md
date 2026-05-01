@@ -63,11 +63,17 @@ python3 src/capture.py data/samples/sample_http.pcap --no-save
 ### Output esperado
 
 [*] Analizando: data/samples/sample_http.pcap
+
 [+] Total de paquetes : 200
+
 [+] Total de bytes    : 57,682
+
 [+] Tamaño promedio   : 288.41 bytes
+
 [+] Protocolo top     : TCP
+
 [+] IPs únicas        : 10
+
 [✓] Análisis completado.
 
 ## Gráficas Generadas
