@@ -85,7 +85,8 @@ python3 src/capture.py data/samples/sample_http.pcap
 Telematic Engineer — ESPOCH  
 Manta, Manabí, Ecuador  
 Riobamba, Chimborazo, Ecuador  
-[github.com/CarlosRolo](https://github.com/CarlosRolo)
+GitHub: [github.com/CarlosRolo](https://github.com/CarlosRolo)  
+LinkedIn: [linkedin.com/in/carlosdrodriguezl](https://www.linkedin.com/in/carlosdrodriguezl/)  
  
 ## License
  
