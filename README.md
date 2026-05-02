@@ -82,9 +82,9 @@ python3 src/capture.py data/samples/sample_http.pcap
 ## Author
  
 **Carlos David Rodriguez Lopez**  
-Telematic Engineer — ESPOCH
+Telematic Engineer — ESPOCH  
 Manta, Manabí, Ecuador  
-Riobamba, Chimborazo, Ecuador
+Riobamba, Chimborazo, Ecuador  
 [github.com/CarlosRolo](https://github.com/CarlosRolo)
  
 ## License
